@@ -277,10 +277,11 @@ body {
 
 @media (min-width: 980px) {
   nav {
-    margin-right: 20px;
+    margin-right: 25px;
   }
   #masthead {
     position: static;
+    width: 960px;
   }
   #main-container {
     padding-top: 0%;
